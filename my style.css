@@ -1,1 +1,16 @@
+ <style>
+body {
+  background-color: #F2D2BD;
+}
 
+h1 {
+  color: #DAF7A6;
+  text-align: center;
+}
+
+p {
+  font-family: helvetica;
+  color: #C70039;
+  font-size: 20px;
+}
+</style>
