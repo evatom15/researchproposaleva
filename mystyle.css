@@ -29,13 +29,13 @@ body {
 }
 
 h1 {
-  color: #7f0909;
+  color: #7f0909! important;
   text-align: center;
 }
 
 p {
   font-family: "times new roman";
-  color: #7f0909;
+  color: #7f0909! important;
   font-size: 20px;
 }
 </style>
