@@ -41,16 +41,19 @@ li a: hover {
 }
 body {
   background-color: #F2D2BD;
+ font-family: "helvetica";
 }
 
 h1 {
   color: #7f0909! important;
   text-align: center;
+ font-family: "helvetica";
 }
 
 h2 {
   color: #7f0909! important;
   text-align: left;
+ font-family: "helvetica";
 }
 
 p {
