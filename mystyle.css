@@ -1,7 +1,7 @@
  <style>
 
 ul {
- list-style-type:none;
+ list-style-type: none;
  list-style: none;
  margin: 0;
  padding: 0;
@@ -15,12 +15,12 @@ ul {
  margin: 0;
  padding: 0;
  overflow: hidden;
- font-family: "times new roman";
+ font-family: "helvetica";
 }
 
 .nav li{
  color: #7f0909;
- font-family: "times new roman";
+ font-family: "helvetica";
 }
 
 li {
@@ -54,7 +54,7 @@ h2 {
 }
 
 p {
-  font-family: "times new roman";
+  font-family: "helvetica";
   color: #7f0909! important;
   font-size: 20px;
 }
