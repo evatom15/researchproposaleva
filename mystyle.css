@@ -8,6 +8,8 @@ ul {
  overflow: hidden;
  background-color: #333;
  text-decoration: none;
+ font-family: "helvetica";
+ color: #7f0909
 }
 
 .nav {
