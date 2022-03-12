@@ -48,6 +48,11 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: #7f0909! important;
+  text-align: left;
+}
+
 p {
   font-family: "times new roman";
   color: #7f0909! important;
