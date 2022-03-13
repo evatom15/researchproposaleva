@@ -31,11 +31,13 @@ ul {
  padding: 0;
  overflow: hidden;
  font-family: "helvetica";
+ font-size; 20px;
 }
 
 .qs li{
  color: #7f0909;
  font-family: "helvetica";
+  font-size: 20px;
 }
 
 li {
