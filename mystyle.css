@@ -9,7 +9,7 @@ ul {
  background-color: #333;
  text-decoration: none;
  font-family: "helvetica";
- color: #7f0909
+ color: #7f0909;
 }
 
 .nav {
@@ -31,13 +31,13 @@ ul {
  padding: 0;
  overflow: hidden;
  font-family: "helvetica";
- font-size; 20px;
+ line-height: 1.5;
 }
 
 .qs li{
  color: #7f0909;
  font-family: "helvetica";
-  font-size: 20px;
+  line-height: 1.5;
 }
 
 li {
@@ -59,6 +59,7 @@ li a: hover {
 body {
   background-color: #F2D2BD;
  font-family: "helvetica";
+  line-height: 1.5;
 }
 
 h1 {
@@ -77,6 +78,7 @@ p {
   font-family: "helvetica";
   color: #7f0909! important;
   font-size: 20px;
+  line-height: 1.5;
 }
 
 </style>
