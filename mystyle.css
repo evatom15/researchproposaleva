@@ -25,6 +25,19 @@ ul {
  font-family: "helvetica";
 }
 
+.qs {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ font-family: "helvetica";
+}
+
+.qs li{
+ color: #7f0909;
+ font-family: "helvetica";
+}
+
 li {
  float: left;
 }
