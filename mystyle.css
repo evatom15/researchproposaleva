@@ -21,7 +21,7 @@ ul {
 }
 
 .nav li{
- color: white;
+ color: #333;
  font-family: "helvetica";
 }
 
@@ -64,8 +64,4 @@ p {
   font-size: 20px;
 }
 
-img {
-  width: 400px,
-  height: 300px
-}
 </style>
