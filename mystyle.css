@@ -63,4 +63,9 @@ p {
   color: #7f0909! important;
   font-size: 20px;
 }
+
+img {
+  width: 400px,
+  height: 300px
+}
 </style>
